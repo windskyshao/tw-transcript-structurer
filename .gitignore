@@ -1,0 +1,51 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+
+# === IDE ===
+.vscode/
+.idea/
+.claude/
+
+# === 系統檔案 ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === 暫存 / 備份 ===
+*.tmp
+*.log
+*.bak
+*.bak.*
+*.tmp.*
+*_backup_*.py
+*_backup.py
+*.OLD_VERSION
+*.before_indent_fix
+*.fix_backup_*
+*.force_backup_*
+
+# === PyInstaller 打包輸出 ===
+build/
+dist/
+__pycache__/
+
+# === 程式運作產生 ===
+*.pdf
+*.json
+*.png
+*.jpg
+*.xlsx
+output/
+debug_*.txt
+debug_*.png
+
+# === 案件工作資料夾 ===
+**/4.其他相關/
+**/1.基本資料/
+**/0.謄本/
