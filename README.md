@@ -35,7 +35,7 @@ spec 採動態抓 `rapidocr_onnxruntime` 套件路徑，**不寫死任何電腦�
 pyinstaller "GUI_transcript_pdf 1141021-01.spec" -y
 ```
 
-完成後 `dist\電子謄本結構化v1.5b.exe` 即可使用（exe 名稱由 spec 內定義）。
+完成後 `dist\電子謄本結構化v1.7.exe` 即可使用（exe 名稱由 spec 內定義）。
 
 ## 與「地籍資料查詢系統」的關係
 

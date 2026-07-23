@@ -77,7 +77,7 @@ exe = EXE(
     a.zipfiles,
     a.datas,
     [],
-    name='電子謄本結構化v1.5b',
+    name='電子謄本結構化v1.7',
     debug=False,
     bootloader_ignore_signals=False,
     # 🔥 strip=True 可移除除錯符號,減小檔案大小並稍微加快啟動
